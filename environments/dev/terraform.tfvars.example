@@ -1,0 +1,3 @@
+db_username = "dbadmin"
+db_password = "YourSecurePassword123!" # Choose a strong password
+certificate_arn = "ARN of the ACM certificate for the ALB"
